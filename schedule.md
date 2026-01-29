@@ -10,7 +10,7 @@ description: The weekly event schedule.
 | Week | Link   | Date    | Topic                        | Reading and Assignments   |
 |:----:|:------:|:-----:  |:-----------------------------|:--------------------------|
 | 1    |        | T 1/27  | Introduction                 |                           |
-|      | Lec 01 | R 1/29  | Stable Matching              | Chapter 1                 |
+|      | [Lec 01](/assets/slides/lec1.pdf) | R 1/29  | Stable Matching              | Chapter 1                 |
 | 2    | Lec 02 | T 2/3   | Proof Review                 |                           |
 |      | Lec 03 | R 2/5   | Algorithm Analysis           | Chapter 2.1               |
 |      |        | F 2/6   |                              | Homework 1 Due            |
