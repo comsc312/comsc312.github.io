@@ -11,7 +11,7 @@ description: The weekly event schedule.
 |:----:|:------:|:-----:  |:-----------------------------|:--------------------------|
 | 1    |        | T 1/27  | Introduction                 |                           |
 |      | [Lec 01](/assets/slides/lec1.pdf) | R 1/29  | Stable Matching              | Chapter 1                 |
-| 2    | Lec 02 | T 2/3   | Proof Review /Algorithm Analysis  |   Chapter 2.1        |
+| 2    | [Lec 02](/assets/slides/lec2.pdf) | T 2/3   | Proof Review /Algorithm Analysis  |   Chapter 2.1        |
 |      | Lec 03 | R 2/5   | Algorithm Analysis           | Chapter 2.2               |
 |      |        | F 2/6   |                              | Homework 1 Due            |
 | 3    |        | T 2/10  | No class!                    |                           |
