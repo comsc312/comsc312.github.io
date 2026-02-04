@@ -11,7 +11,7 @@ description: A listing of all the course staff members.
   <h3><a href="https://bcmullins.github.io">Brett Mullins</a></h3>
   <strong>Office:</strong> Clapp 222 <br/>
   <strong>Email:</strong> brettmullins@mtholyoke.edu <br/>
-  <strong>Office Hours:</strong> TBA
+  <strong>Office Hours:</strong> T 11:30am - 1:30pm, R 4:00pm - 6:00pm, or by appointment
 </div>
 
 <br/>
