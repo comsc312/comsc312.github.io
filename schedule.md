@@ -12,10 +12,10 @@ description: The weekly event schedule.
 | 1    |        | T 1/27  | Introduction                 |                           |
 |      | [Lec 01](/assets/slides/lec1.pdf) | R 1/29  | Stable Matching              | Chapter 1                 |
 | 2    | [Lec 02](/assets/slides/lec2.pdf) | T 2/3   | Proof Review /Algorithm Analysis  |   Chapter 2.1        |
-|      | Lec 03 | R 2/5   | Algorithm Analysis           | Chapter 2.2               |
+|      | [Lec 03](/assets/slides/lec3.pdf) | R 2/5   | Algorithm Analysis           | Chapter 2.2               |
 |      |        | F 2/6   |                              | Homework 1 Due            |
 | 3    |        | T 2/10  | No class!                    |                           |
-|      | Lec 04 | R 2/12  | Algorithm Analysis           | Chapter 2.3               |
+|      | Lec 04 | R 2/12  | Algorithm Analysis           | Chapters 2.2, 2.4               |
 |      |        | F 2/13  |                              | Homework 2 Due            |
 | 4    | Lec 05 | T 2/17  | Algorithm Analysis           | Chapter 2.4               |
 |      | Lec 06 | R 2/19  | Graphs                       | Chapter 3.1, 3.2          |
