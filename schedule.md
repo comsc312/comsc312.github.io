@@ -15,7 +15,7 @@ description: The weekly event schedule.
 |      | [Lec 03](/assets/slides/lec3.pdf) | R 2/5   | Algorithm Analysis           | Chapter 2.2               |
 |      |        | F 2/6   |                              | Homework 1 Due            |
 | 3    |        | T 2/10  | No class!                    |                           |
-|      | Lec 04 | R 2/12  | Algorithm Analysis           | Chapters 2.2, 2.4               |
+|      | [Lec 04](/assets/slides/lec4.pdf) | R 2/12  | Algorithm Analysis           | Chapters 2.2, 2.4               |
 |      |        | F 2/13  |                              | Homework 2 Due            |
 | 4    | Lec 05 | T 2/17  | Algorithm Analysis           | Chapter 2.4               |
 |      | Lec 06 | R 2/19  | Graphs                       | Chapter 3.1, 3.2          |
