@@ -18,4 +18,8 @@ description: A listing of all the course staff members.
 
 ## Teaching Assistant
 
-Coming soon!
+<div>
+  <h3>Amanda Adjei</h3>
+  <strong>Room:</strong> Kendade 307 <br/>
+  <strong>Drop-in Hours:</strong> Sundays 6:00pm - 8:00pm
+</div>
