@@ -20,7 +20,7 @@ description: The weekly event schedule.
 | 4    | [Lec 05](/assets/slides/lec5.pdf) | T 2/17  | Algorithm Analysis           | Chapter 2.4               |
 |      | [Lec 06](/assets/slides/lec6.pdf) | R 2/19  | Graphs                       | Chapter 3.1, 3.2          |
 |      |        | F 2/20  |                              | Homework 3 Due            |
-| 5    | Lec 07 | T 2/24  | Graphs                       | Chapter 3.2, 3.3               |
+| 5    | [Lec 07](/assets/slides/lec7.pdf) | T 2/24  | Graphs                       | Chapter 3.2, 3.3               |
 |      | Lec 08 | R 2/26  | Graphs                       | Chapter 3.4               |
 |      |        | F 2/27  |                              | Ind Project 1 Due |
 | 6    | Lec 09 | T 3/3   | Greedy Algorithms            | Chapter 4.1               |
