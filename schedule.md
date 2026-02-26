@@ -21,7 +21,7 @@ description: The weekly event schedule.
 |      | [Lec 06](/assets/slides/lec6.pdf) | R 2/19  | Graphs                       | Chapter 3.1, 3.2          |
 |      |        | F 2/20  |                              | Homework 3 Due            |
 | 5    | [Lec 07](/assets/slides/lec7.pdf) | T 2/24  | Graphs                       | Chapter 3.2, 3.3               |
-|      | Lec 08 | R 2/26  | Graphs                       | Chapter 3.4               |
+|      | [Lec 08](/assets/slides/lec8.pdf) | R 2/26  | Graphs                       | Chapter 3.4               |
 |      |        | F 2/27  |                              | Ind Project 1 Due |
 | 6    | Lec 09 | T 3/3   | Greedy Algorithms            | Chapter 4.1               |
 |      | Lec 10 | R 3/5   | Greedy Algorithms            | Chapter 4.2               |
