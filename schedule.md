@@ -23,12 +23,12 @@ description: The weekly event schedule.
 | 5    | [Lec 07](/assets/slides/lec7.pdf) | T 2/24  | Graphs                       | Chapter 3.2, 3.3               |
 |      | [Lec 08](/assets/slides/lec8.pdf) | R 2/26  | Graphs                       | Chapter 3.4               |
 |      |        | F 2/27  |                              | Ind Project 1 Due |
-| 6    | Lec 09 | T 3/3   | Greedy Algorithms            | Chapter 4.1               |
-|      | Lec 10 | R 3/5   | Greedy Algorithms            | Chapter 4.2               |
-|      |        | F 3/6   |                              | Homework 4 Due            |
-| 7    | Lec 11 | T 3/10  | Greedy Algorithms            | Chapter 4.4               |
+| 6    | Lec 09 | T 3/3   | Graphs            | Chapter 3.5, 3.6               |
+|      | Lec 10 | R 3/5   | Greedy Algorithms            | Chapter 4.1, 4.2               |
+|      |        | S 3/8   |                              | Homework 4 Due            |
+| 7    | Lec 11 | T 3/10  | Greedy Algorithms            | Chapter 4.2, 4.4               |
 |      | Lec 12 | R 3/12  | Greedy Algorithms            | Chapter 4.5               |
-|      |        | F 3/13  |                              | Quiz 1, Ind Project 2 Due |
+|      |        | F 3/13  |                              | Quiz 1 Due |
 |      |        | T 3/17  | **Spring**                   |                           |
 |      |        | R 3/19  | **Break**                    |                           |
 | 8    | Lec 13 | T 3/24  | Divide and Conquer           | Chapter 5.1               |
@@ -36,16 +36,16 @@ description: The weekly event schedule.
 |      |        | F 3/27  |                              | Homework 5 Due            |
 | 9    | Lec 15 | T 3/31  | Divide and Conquer           | Chapter 5.4, 5.5          |
 |      | Lec 16 | R 4/2   | Dynamic Programming          | Chapter 6.1, 6.2          |
-|      |        | F 4/3   |                              | Quiz 2 Due                |
+|      |        | F 4/3   |                              | Ind Project 2 Due          |
 | 10   | Lec 17 | T 4/7   | Dynamic Programming          | Chapter 6.3, 6.4          |
 |      | Lec 18 | R 4/9   | Dynamic Programming          | Chapter 6.6               |
-|      |        | F 4/10  |                              | Homework 6, Ind Project 3 Due |
+|      |        | F 4/10  |                              | Homework 6 Due            |
 | 11   | Lec 19 | T 4/14  | Network Flow                 | Chapter 7.1, 7.2          |
 |      | Lec 20 | R 4/16  | Network Flow                 | Chapter 7.3               |
 |      |        | F 4/17  |                              | Homework 7 Due            |
 | 12   | Lec 21 | T 4/21  | Intractability               | Chapter 8.1, 8.2          |
 |      | Lec 22 | R 4/23  | Intractability               | Chapter 8.3               |
-|      |        | F 4/24  |                              | Quiz 3, Ind Project 4 Due                |
+|      |        | F 4/24  |                              | Quiz 2 Due                |
 | 13   | Lec 23 | T 4/28  | Intractability               | Chapter 8.4               |
 |      |        | R 4/30  | Group Presentations          |                           |
 |      |        | F 5/1   |                              | Homework 8 Due            |
