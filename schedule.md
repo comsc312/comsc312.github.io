@@ -26,7 +26,7 @@ description: The weekly event schedule.
 | 6    | [Lec 09](/assets/slides/lec9.pdf) | T 3/3   | Graphs            | Chapter 3.5, 3.6               |
 |      | [Lec 10](/assets/slides/lec10.pdf) | R 3/5   | Greedy Algorithms            | Chapter 4.1, 4.2               |
 |      |        | S 3/8   |                              | Homework 4 Due            |
-| 7    | Lec 11 | T 3/10  | Greedy Algorithms            | Chapter 4.2, 4.4               |
+| 7    | [Lec 11](/assets/slides/lec11.pdf) | T 3/10  | Greedy Algorithms            | Chapter 4.2, 4.4               |
 |      | Lec 12 | R 3/12  | Greedy Algorithms            | Chapter 4.5               |
 |      |        | F 3/13  |                              | Quiz 1 Due |
 |      |        | T 3/17  | **Spring**                   |                           |
