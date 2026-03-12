@@ -26,12 +26,12 @@ description: The weekly event schedule.
 | 6    | [Lec 09](/assets/slides/lec9.pdf) | T 3/3   | Graphs            | Chapter 3.5, 3.6               |
 |      | [Lec 10](/assets/slides/lec10.pdf) | R 3/5   | Greedy Algorithms            | Chapter 4.1, 4.2               |
 |      |        | S 3/8   |                              | Homework 4 Due            |
-| 7    | [Lec 11](/assets/slides/lec11.pdf) | T 3/10  | Greedy Algorithms            | Chapter 4.2, 4.4               |
-|      | Lec 12 | R 3/12  | Greedy Algorithms            | Chapter 4.5               |
+| 7    | [Lec 11](/assets/slides/lec11.pdf) | T 3/10  | Greedy Algorithms            | Chapter 4.2               |
+|      | [Lec 12](/assets/slides/lec12.pdf) | R 3/12  | Greedy Algorithms            | Chapter 4.4               |
 |      |        | F 3/13  |                              | Quiz 1 Due |
 |      |        | T 3/17  | **Spring**                   |                           |
 |      |        | R 3/19  | **Break**                    |                           |
-| 8    | Lec 13 | T 3/24  | Divide and Conquer           | Chapter 5.1               |
+| 8    | Lec 13 | T 3/24  | Divide and Conquer           | Chapter 4.4,5.1               |
 |      | Lec 14 | R 3/26  | Divide and Conquer           | Chapter 5.2               |
 |      |        | F 3/27  |                              | Homework 5 Due            |
 | 9    | Lec 15 | T 3/31  | Divide and Conquer           | Chapter 5.4, 5.5          |
