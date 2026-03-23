@@ -33,6 +33,17 @@ Submit your video by creating an Ed post with the video embedded and a brief des
 | Use of Visual Aids | Visual aids are effective and enhance understanding | Visual aids are somewhat helpful, but could be improved | Visual aids are missing or ineffective |
 | Scope and Depth | Topic is appropriate for the level of the course and shows understanding | Topic is a bit too simple or lacks depth | Covers the topic superficially or misses key points |
 
+### Ideas for Project II
+
+- Pick a longer word problem from K&T Chapter 3 or 4
+
+- Complete the correctness proof of Dijkstra's algorithm
+
+- Topic we didn't cover in lecture from K&T Chapter 4:
+    - Interval Partitioning (p. 122)
+    - Cache Maintenance (Section 4.3)
+    - Clustering (Section 4.7)
+    - Huffman Codes (Section 4.8)
 
 ### Ideas for Project I
 - Pick a problem from K&T:
