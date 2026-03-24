@@ -31,7 +31,7 @@ description: The weekly event schedule.
 |      |        | F 3/13  |                              | Quiz 1 Due |
 |      |        | T 3/17  | **Spring**                   |                           |
 |      |        | R 3/19  | **Break**                    |                           |
-| 8    | Lec 13 | T 3/24  | Divide and Conquer           | Chapter 4.4,5.1               |
+| 8    | [Lec 13](/assets/slides/lec13.pdf) | T 3/24  | Greedy Algorithms           | Chapter 4.4,5.1               |
 |      | Lec 14 | R 3/26  | Divide and Conquer           | Chapter 5.2               |
 |      |        | F 3/27  |                              | Homework 5 Due            |
 | 9    | Lec 15 | T 3/31  | Divide and Conquer           | Chapter 5.4, 5.5          |
