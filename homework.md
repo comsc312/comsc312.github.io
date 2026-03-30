@@ -12,6 +12,6 @@ math: mathjax
 - Homework 2 ([pdf](/assets/hw/hw2.pdf), [tex](/assets/hw/hw2.tex))  Due Sunday, February 15 - [Solutions](https://drive.google.com/file/d/1ySTSCJqqS_HhXBGsNAPczlAS0WvUWKuh/view?usp=share_link)
 - Homework 3 ([pdf](/assets/hw/hw3.pdf), [tex](/assets/hw/hw3.tex))  Due Friday, February 20 - [Solutions](https://drive.google.com/file/d/1P23IpV6j7EqZV84B6bkcAXqxoslplCEF/view?usp=share_link)
 - Homework 4 ([pdf](/assets/hw/hw4.pdf), [tex](/assets/hw/hw4.tex))  Due Sunday, March 8 - [Solutions](https://drive.google.com/file/d/1sdDyIY9AvkDGzsoo_L9Qt3ZavY8nlxoa/view?usp=share_link)
-- Homework 5 ([pdf](/assets/hw/hw5.pdf), [tex](/assets/hw/hw5.tex))  Due Sunday, March 29
+- Homework 5 ([pdf](/assets/hw/hw5.pdf), [tex](/assets/hw/hw5.tex))  Due Sunday, March 29 - [Solutions](https://drive.google.com/file/d/1Z3tzZlnb2h1UObx7hzqi85wP-nuHBA63/view?usp=share_link)
 
 Reflection guidelines ([pdf](/assets/hw/reflection.pdf))
