@@ -34,7 +34,7 @@ description: The weekly event schedule.
 | 8    | [Lec 13](/assets/slides/lec13.pdf) | T 3/24  | Greedy Algorithms           | Chapter 4.4,5.1               |
 |      | [Lec 14](/assets/slides/lec14.pdf) | R 3/26  | Divide and Conquer           | Chapter 5.2               |
 |      |        | F 3/27  |                              | Homework 5 Due            |
-| 9    | Lec 15 | T 3/31  | Divide and Conquer           | Chapter 5.4, 5.5          |
+| 9    | [Lec 15](/assets/slides/lec15.pdf) | T 3/31  | Divide and Conquer           | Chapter 5.4, 5.5          |
 |      | Lec 16 | R 4/2   | Dynamic Programming          | Chapter 6.1, 6.2          |
 |      |        | F 4/3   |                              | Ind Project 2 Due          |
 | 10   | Lec 17 | T 4/7   | Dynamic Programming          | Chapter 6.3, 6.4          |
