@@ -38,7 +38,7 @@ description: The weekly event schedule.
 |      | [Lec 16](/assets/slides/lec16.pdf) | R 4/2   | Divide and Conquer          | Chapter 5.4, 5.5          |
 |      |        | F 4/3   |                              | Ind Project 2 Due          |
 | 10   | [Lec 17](/assets/slides/lec17.pdf) | T 4/7   | Dynamic Programming          | Chapter 6.1, 6.2          |
-|      | Lec 18 | R 4/9   | Dynamic Programming          | Chapter 6.3, 6.4               |
+|      | [Lec 18](/assets/slides/lec18.pdf) | R 4/9   | Dynamic Programming          | Chapter 6.3, 6.4               |
 |      |        | F 4/10  |                              | Homework 6 Due            |
 | 11   | Lec 19 | T 4/14  | Network Flow                 | Chapter 7.1, 7.2          |
 |      | Lec 20 | R 4/16  | Network Flow                 | Chapter 7.3               |
